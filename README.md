@@ -1,0 +1,6 @@
+Welcome to my final project created during Nucamp Bootcamp.
+This Nucampsite showcases all I have learned about the MERN stack.
+
+Some parts of the site are intentionally broken.
+An example is the Feedback form throwing an error on submission.
+This is because there is no backend to handle the feedback.
